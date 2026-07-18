@@ -24,6 +24,8 @@ Hi, I'm **Shivam Kumar** 👋
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamkumar749362@gmail.com)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivamkumar214/)
+
 ---
 
 # 💻 Tech Stack
